@@ -1,4 +1,4 @@
-<img width="720" height="720" alt="baixados (13)" src="https://github.com/user-attachments/assets/c5f1335d-ab07-4d96-b8a6-ce173170809b" />
+
 # HamburgueriaZ_PROJECT
 #### Portifolio de Desenvolvimento Mobile (Unopar)
 ## Introdução  
